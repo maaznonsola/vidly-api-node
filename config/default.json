@@ -1,6 +1,6 @@
 {
   "jwtPrivateKey": "unsecureKey",
-  "db": "mongodb+srv://vidlyuser:12345@vidly.nvlyqom.mongodb.net/test?retryWrites=true&w=majority",
+  "db": "mongodb://vidlyuser:12345@ac-blsiyui-shard-00-00.nvlyqom.mongodb.net:27017,ac-blsiyui-shard-00-01.nvlyqom.mongodb.net:27017,ac-blsiyui-shard-00-02.nvlyqom.mongodb.net:27017/?ssl=true&replicaSet=atlas-wwt8sj-shard-0&authSource=admin&retryWrites=true&w=majority",
   "port": "3900",
   "requiresAuth": true
 }
